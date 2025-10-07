@@ -12,10 +12,6 @@ Kişisel web portföyüm. Web geliştirme çalışmalarımı, deneyimlerimi ve i
 - Bilgisayarda doğrudan `index.html` dosyasını çift tıklayıp tarayıcıda açın.
 - (Önerilen) VS Code kullanıyorsanız Live Server ile çalıştırabilirsiniz.
 
-## GitHub Pages ile Yayınlama
-1. Bu klasörü bir GitHub deposuna gönderin.
-2. GitHub → Settings → Pages → Deploy from a branch → `main`/`master` ve `/root` seçin.
-3. Kaydedin. Birkaç dakika içinde size verilen URL aktif olur.
 
 ## Bölümler
 - Ana Sayfa
